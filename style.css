@@ -1,0 +1,190 @@
+*,
+*::before,
+*::after{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul,
+ol,
+li{
+    list-style:none;
+}
+
+img{
+    vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-weight: inherit;
+    font-size: inherit;
+}
+body{
+    font-family: 'Saira Condensed', sans-serif;
+}
+.wrapper{
+    overflow-x:hidden;
+    min-height: 100%;
+    overflow: hidden;
+    
+}
+
+
+.main1{
+    position: absolute;
+    top:0;
+    left:0;
+    background-image: url("/img/main/1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:880px;
+}
+.text1{
+    color: red;
+    margin: 122px 25px 597px 1450px;
+    width: 400px;
+    height: 200px;
+    font-size: 65px;
+}
+.main2{
+    margin-top: 880px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image: url("img/main/1644900092_4-abrakadabra-fun-p-suprematizm-oboi-4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height: 880px;
+    
+   
+}
+
+.main2 h1{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.main2 p{
+margin-top: 20px;
+text-align: center;
+font-size: 30px;
+margin-bottom: 35px;
+color:red;
+}
+
+
+
+.text2{
+    text-align: center;
+}
+.text2 a{
+    font-size: 30px;
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 35px;
+    color:red;
+    padding-left: 16px;
+}
+.spr1
+.main3{
+    margin-top: 860px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image: url("img/main/1623640486_7-phonoteka_org-p-abstraktsiya-suprematizm-oboi-krasivo-8.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height: 860px;
+}
+.text3 p{
+color: black;
+padding-top:5px ;
+}
+.text3 h1{
+    color: red;
+}
+.main4{
+    margin-top: 1720px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image: url("img/main/124.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height: 860px;
+}
+
+.main4 h1{
+color: red;
+}
+.c p{
+    color: #C71585;
+}
+.b p{
+    color: white;
+}
+.c4 p{
+    color: black;
+ }
+.sup1 h1{
+color: red;
+}
+.sup1{
+    margin: 150px 240px 0px 240px;
+    display: flex;
+    width: 1400px;
+    height: 61px;
+}
+.title4{
+    margin: 50px 1241px 300px 290px;
+    width: 185px;
+    height: 213px;
+    font-size: 50px;
+}
+.sup1 h1{
+    margin-right: 600px;
+}
+.title4 p{
+    font-size: 40px;
+}
+.main5{
+    margin-top: 2580px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image: url("img/main/1623640495_9-phonoteka_org-p-abstraktsiya-suprematizm-oboi-krasivo-10\ \(1\).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:300px;
+    text-align: center;
+}
+.main5 a{
+    color:SteelBlue;
+    font-size: 40px;
+    margin-left: 25px;
+    
+}
+.main5 a::before{
+    
+    margin-left: 0;
+    content: url("img/main/vk.png");
+  
+}
